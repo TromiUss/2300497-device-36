@@ -745,6 +745,7 @@ html {
   height: 55px;
   border-color: #f0f0f0;
   background-color: #f0f0f0;
+  border: none;
   border-bottom: 3px solid #c4c4c4;
   border-radius: 0;
 }
